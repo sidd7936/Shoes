@@ -1,0 +1,32 @@
+
+body{
+	background-color:#070809;
+}
+h1{
+	font-family: 'Playfair Display SC', serif;
+	color:white;
+	padding-left: 50px;
+	text-shadow: 1px 1px #ffffff;
+
+}
+
+img{
+	width:300px;
+	height:200px;
+	transition: all 0.5s;
+	padding:20px;
+	shape-outside: 
+
+
+
+}
+.container{
+
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:space-around;
+
+}
+img:hover{
+	transform:scale(1.1);
+}
